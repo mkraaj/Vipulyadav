@@ -1,0 +1,6 @@
+{
+  "name": "ExamPilot",
+  "description": "Premium bilingual mobile-first exam preparation engine for SSC, UPPSC, State Exams, and UPSC with advanced multi-key Gemini AI routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
